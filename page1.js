@@ -14,3 +14,9 @@ function square() {
   console.log('this is square')
 }
 square()
+function cube() {
+  console.log('this is cube')
+  console.log('this is cube')
+  console.log('this is cube')
+}
+cube()
